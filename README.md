@@ -1,4 +1,4 @@
-# IntroPython
+# IntroPy
 #Introduction of the basic structure and syntax etc. to Python
 #Variables can not start with numbers or any special characters. and cannot be a name of a keyword.
 #The ( = sign) is used to apply a value to a variable.
